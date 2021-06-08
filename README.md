@@ -26,4 +26,4 @@ In dieser Aufgabe wird der Umgang mit Maven geübt. Dazu wird ein einfaches Emai
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
 - [📃 Simple Java Mail](https://www.simplejavamail.org/features.html#section-basic-usage)
-- [📃 Maven Repository - Simple Java Mail](https://maven.apache.org/plugins/maven-compiler-plugin/examples/set-compiler-source-and-target.html)
+- [📃 Maven Repository - Set compiler source](https://maven.apache.org/plugins/maven-compiler-plugin/examples/set-compiler-source-and-target.html)
