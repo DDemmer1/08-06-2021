@@ -10,7 +10,7 @@ In dieser Aufgabe wird der Umgang mit Maven geübt. Dazu wird ein einfaches Emai
 
 
 - Erstellt in Eclipse ein neues ```Maven Project```
-- Konfiguriert in der ```pom.xml``` euren Java compiler (link zur maven doc siehe unten)
+- Konfiguriert in der ```pom.xml``` euren Java compiler auf die gewünschte Java Version (link zur maven doc siehe unten)
 - Fügt ```Simple Java Mail``` als dependency in eure ```pom.xml``` ein
 - Sendet euch selbst eine Email (z.B an eure uni-mail) anhand des "Basic Usage" Beispiels in der [Simple Java Mail Doucumentation](https://www.simplejavamail.org/features.html#section-basic-usage)
 - 💡 Wenn ihr mit einem VPN im Uni Netz seit könnnt ihr dazu diesen smtp server ohne Login verwenden (ansonsten ist ein Login mit euren smail Daten notwendig)
